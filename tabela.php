@@ -18,7 +18,7 @@
     <tbody>
       <tr>
         <th scope="row">19h</th>
-
+      
         <td rowspan="4" class="table-background-image-wrap pop-background-image">
           <h3>Pop Night</h3>
 
@@ -206,11 +206,6 @@
         <td><h3>a</h3></td>
         <td><h3>a</h3></td>
       </tr>
-
-
-
-
-
 
     </tbody>
   </table>
