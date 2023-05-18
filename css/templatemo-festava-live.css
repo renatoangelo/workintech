@@ -12,15 +12,15 @@ https://templatemo.com/tm-583-festava-live
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #F8CB2E;
-  --secondary-color:              #EE5007;
+  --primary-color:                #90FE96;
+  --secondary-color:              #4710b9;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #EE5007;
-  --custom-btn-bg-hover-color:    #c01f27;
-  --dark-color:                   #000000;
-  --p-color:                      #717275;
+  --custom-btn-bg-color:          #4710b9;
+  --custom-btn-bg-hover-color:    #90FE96;
+  --dark-color:                   #1c0a41;
+  --p-color:                      #662ED5;
   --border-color:                 #7fffd4;
-  --link-hover-color:             #B22727;
+  --link-hover-color:             #90FE96;
 
   --body-font-family:             'Outfit', sans-serif;
 
@@ -605,12 +605,12 @@ strong {
 
 .artists-hover {
   background-color: var(--primary-color);
-  background-color: rgba(248, 203, 46, 0.75);
+  background-color: rgba(60, 255, 73, 0.75);
   border-radius: var(--border-radius-medium);
   backdrop-filter: blur(5px) saturate(180%);
   -webkit-backdrop-filter: blur(5px) saturate(180%);
   margin: 20px;
-  padding: 35px;
+  padding: 15px;
   transition: all 0.5s ease;
   transform: translateY(100%);
   position: absolute;
@@ -671,7 +671,7 @@ strong {
 .schedule-table th,
 .schedule-table tr,
 .schedule-table td {
-  border-bottom-color: #363a3e;
+  border-bottom-color: #90FE96;
   padding: 30px;
 }
 
@@ -681,7 +681,7 @@ strong {
 }
 
 .schedule-table thead th {
-  border-right: 1px solid #c7460a;
+  border-right: 1px solid #90FE96;
   border-bottom-color: transparent;
 }
 
@@ -772,11 +772,11 @@ strong {
 }
 
 .pricing-thumb .link-fx-1 {
-  color: var(--primary-color);
+  color: var(--secondary-color);
 }
 
 .pricing-thumb .link-fx-1:hover {
-  color: var(--link-hover-color);
+  color: var(--dark-color);
 }
 
 
@@ -894,7 +894,7 @@ strong {
 }
 
 .social-icon-link:hover {
-  background: var(--primary-color);
+  background: var(--p-color);
   color: var(--white-color);
 }
 
