@@ -159,19 +159,19 @@
                     <div class="col-lg-5 col-12">
                         <div class="artists-thumb">
                             <div class="artists-image-wrap">
-                                <img src="images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg"
+                                <img src="images/palestrantes/ivo.jpeg"
                                     class="artists-image img-fluid">
                             </div>
 
                             <div class="artists-hover">
                                 <p>
                                     <strong>Name:</strong>
-                                    Rihana
+                                    Clayton Passos
                                 </p>
 
                                 <p class="mb-0">
                                     <strong>Função:</strong>
-                                    <a href="#">Diretor Executivo</a>
+                                    <a href="#">Senior Software Solutions Architect <br> Subject Matter Expert</a>
                                 </p>
                             </div>
                         </div>
@@ -183,19 +183,18 @@
                     <div class="col-lg-5 col-12">
                         <div class="artists-thumb">
                             <div class="artists-image-wrap">
-                                <img src="images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg"
-                                    class="artists-image img-fluid">
+                                <img src="images/palestrantes/amanda.png" class="artists-image img-fluid">
                             </div>
 
                             <div class="artists-hover">
                                 <p>
                                     <strong>Name:</strong>
-                                    Rihana
+                                    Amanda
                                 </p>
 
                                 <p class="mb-0">
                                     <strong>Função:</strong>
-                                    <a href="#">Diretor Executivo</a>
+                                    <a href="#">Gestora de Marca</a>
                                 </p>
                             </div>
                         </div>
