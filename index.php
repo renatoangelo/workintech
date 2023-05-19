@@ -108,18 +108,7 @@
               <img src="images/logo-roxo.png" class="about-image img-fluid">
 
 
-              <div class="about-text-info d-flex">
-                <div class="d-flex">
-                  <i class="about-text-icon bi-person"></i>
-                </div>
-
-
-                <div class="ms-4">
-                  <h3>a happy moment</h3>
-
-                  <p class="mb-0">your amazing festival experience with us</p>
-                </div>
-              </div>
+              
             </div>
           </div>
 
