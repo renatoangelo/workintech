@@ -38,7 +38,7 @@
     </section>
 
 
-    git 
+    
 
 
     <section class="contact-section section-padding" id="section_6">
