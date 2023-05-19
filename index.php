@@ -19,22 +19,8 @@
       </div>
     </header>
 
+    <?php include("menu.php"); ?>
 
-    <nav class="navbar navbar-expand-lg">
-      <div class="container">
-        <a class="navbar-brand" href="index.php">
-          <img src="images/logo.png" height="80px" />
-        </a>
-
-        <a href="ticket.html" class="btn custom-btn d-lg-none ms-auto me-4">Buy Ticket</a>
-
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <?php include("menu.php"); ?>
-      </div>
-    </nav>
 
 
     <section class="hero-section" id="section_1">
@@ -87,7 +73,7 @@
             <div class="services-info">
               <h2 class="text-white mb-4">Work in Tech</h2>
 
-              <p class="text-white">Participe da Feira de Empregabilidade na UniCesumar! Um evento único em que várias empresas renomadas apresentarão oportunidades de emprego nas áreas de programação e tecnologia da informação. Além disso, teremos palestras inspiradoras para auxiliar os alunos a explorarem suas paixões e se encontrarem em diversas áreas. Não perca essa chance de iniciar sua carreira com sucesso!
+              <p class="text-white">Um evento único em que várias empresas renomadas apresentam oportunidades de emprego nas áreas de programação e TI. Além de palestras inspiradoras para auxiliar os alunos a explorarem suas paixões e se encontrarem. Não perca essa chance de iniciar sua carreira com sucesso!
               </p>
 
               <h6 class="text-white mt-4">Vantagens do evento</h6>
@@ -219,7 +205,7 @@
             <h2 class="text-white mb-4">Cronograma do Evento</h1>
 
               <?php include("tabela.php"); ?>
-              
+
           </div>
         </div>
       </div>
@@ -354,7 +340,7 @@
               </div>
 
               <div class="tab-pane fade" id="nav-ContactMap" role="tabpanel" aria-labelledby="nav-ContactMap-tab">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17399.602722835334!2d-51.938714581525524!3d-23.4461517991622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81a413a9c9463%3A0x4e3ee356ad1bd6c3!2sUniCesumar%20-%20Maring%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1684459563530!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17399.602722835334!2d-51.938714581525524!3d-23.4461517991622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81a413a9c9463%3A0x4e3ee356ad1bd6c3!2sUniCesumar%20-%20Maring%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1684459563530!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 <!-- You can easily copy the embed code from Google Maps -> Share -> Embed a map // -->
               </div>
             </div>

@@ -1,29 +1,44 @@
-<div class="collapse navbar-collapse" id="navbarNav">
-  <ul class="navbar-nav align-items-lg-center ms-auto me-lg-5">
-      <li class="nav-item">
+<nav class="navbar navbar-expand-lg">
+  <div class="container">
+    <a class="navbar-brand" href="index.php">
+      <img src="images/logo.png" height="80px" />
+    </a>
+
+    <a href="ticket.html" class="btn custom-btn d-lg-none ms-auto me-4">Buy Ticket</a>
+
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav align-items-lg-center ms-auto me-lg-5">
+        <li class="nav-item">
           <a class="nav-link click-scroll" href="#section_1">Home</a>
-      </li>
+        </li>
 
-      <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link click-scroll" href="#section_2">Sobre</a>
-      </li>
+        </li>
 
-      <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link click-scroll" href="#section_3">Mentores e Empresas</a>
-      </li>
+        </li>
 
-      <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link click-scroll" href="#section_4">Cronograma</a>
-      </li>
+        </li>
 
-      <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link click-scroll" href="#section_5">Pricing</a>
-      </li>
+        </li>
 
-      <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link click-scroll" href="#section_6">Inscrição</a>
-      </li>
-  </ul>
+        </li>
+      </ul>
 
-  <a href="ticket.html" class="btn custom-btn d-lg-block d-none">Inscreva-se</a>
-</div>
+      <a href="ticket.html" class="btn custom-btn d-lg-block d-none">Inscreva-se</a>
+    </div>
+
+  </div>
+</nav>
