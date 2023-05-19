@@ -87,7 +87,10 @@
             <div class="services-info">
               <h2 class="text-white mb-4">Work in Tech</h2>
 
-              <p class="text-white">Work in Tech é a Feira de Empregabilidade que ocorre na UNICESUMAR no dia 30 de Maio de 2023. Esta feira visa visa visa ajudar e nao atrapalhar alguns alunos para que estes possam entrar e nao sair do mercado, que não é um supermercado e sim um mercado de trabalho que não é para pessoas desocupadas ou despreparadas e sim para preparadas.</p>
+              <p class="text-white">Work in Tech é a Feira de Empregabilidade que ocorre 
+              na UNICESUMAR no dia 30 de Maio de 2023. Esta feira visa visa visa ajudar 
+              e nao atrapalhar alguns alunos para que estes possam entrar e nao sair do mercado, que não é um supermercado e sim um mercado de trabalho que não é para pessoas desocupadas ou despreparadas e sim para preparadas.
+              </p>
 
               <h6 class="text-white mt-4">Vantagens do evento</h6>
 
@@ -102,7 +105,8 @@
 
           <div class="col-lg-6 col-12">
             <div class="about-text-wrap">
-              <img src="images/logo-roxo.png class="about-image img-fluid">
+              <img src="images/logo-roxo.png" class="about-image img-fluid">
+
 
               <div class="about-text-info d-flex">
                 <div class="d-flex">
