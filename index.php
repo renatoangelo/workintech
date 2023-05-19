@@ -85,16 +85,14 @@
 
           <div class="col-lg-6 col-12 mb-4 mb-lg-0 d-flex align-items-center">
             <div class="services-info">
-              <h2 class="text-white mb-4">About Festava 2022</h2>
+              <h2 class="text-white mb-4">Work in Tech</h2>
 
-              <p class="text-white">Festava Live is free CSS template provided by TemplateMo website. This
-                layout is built on Bootstrap v5.2.2 CSS library. You are free to use this template for
-                your commercial website.</p>
+              <p class="text-white">Work in Tech é a Feira de Empregabilidade que ocorre na UNICESUMAR no dia 30 de Maio de 2023. Esta feira visa visa visa ajudar e nao atrapalhar alguns alunos para que estes possam entrar e nao sair do mercado, que não é um supermercado e sim um mercado de trabalho que não é para pessoas desocupadas ou despreparadas e sim para preparadas.</p>
 
-              <h6 class="text-white mt-4">Once in Lifetime Experience</h6>
+              <h6 class="text-white mt-4">Vantagens do evento</h6>
 
-              <p class="text-white">You are not allowed to redistribute the template ZIP file on any other
-                website without a permission.</p>
+              <p class="text-white">Nosso evento tem como base fundamental a estruturação de pessoas e alunos
+                para o apoio psicopedagógico e extra-terrestre sobre as profissões.</p>
 
               <h6 class="text-white mt-4">Whole Night Party</h6>
 
@@ -104,7 +102,7 @@
 
           <div class="col-lg-6 col-12">
             <div class="about-text-wrap">
-              <img src="images/pexels-alexander-suhorucov-6457579.jpg" class="about-image img-fluid">
+              <img src="images/logo-roxo.png class="about-image img-fluid">
 
               <div class="about-text-info d-flex">
                 <div class="d-flex">
