@@ -202,7 +202,7 @@
         <div class="row">
 
           <div class="col-12 text-center">
-            <h2 class="text-white mb-4">Cronograma do Evento 2</h1>
+            <h2 class="text-white mb-4">Cronograma do Evento 10</h1>
 
               <?php include("tabela.php"); ?>
 
