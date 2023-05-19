@@ -44,11 +44,11 @@
         <div class="row">
 
           <div class="col-12 mt-auto mb-5 text-center">
-            <small>Festava Live Presents</small>
+            <small>Feira de Empregabilidade</small>
 
-            <h1 class="text-white mb-5">Night Live 2023</h1>
+            <h1 class="text-white mb-5"><img src="images/logo.png" /></h1>
 
-            <a class="btn custom-btn smoothscroll" href="#section_2">Let's begin</a>
+            <a class="btn custom-btn smoothscroll" href="#section_2">Inscrever-se</a>
           </div>
 
           <div class="col-lg-12 col-12 mt-auto d-flex flex-column flex-lg-row text-center">
@@ -87,19 +87,16 @@
             <div class="services-info">
               <h2 class="text-white mb-4">Work in Tech</h2>
 
-              <p class="text-white">Work in Tech é a Feira de Empregabilidade que ocorre 
-              na UNICESUMAR no dia 30 de Maio de 2023. Esta feira visa visa visa ajudar 
-              e nao atrapalhar alguns alunos para que estes possam entrar e nao sair do mercado, que não é um supermercado e sim um mercado de trabalho que não é para pessoas desocupadas ou despreparadas e sim para preparadas.
+              <p class="text-white">Participe da Feira de Empregabilidade na UniCesumar! Um evento único em que várias empresas renomadas apresentarão oportunidades de emprego nas áreas de programação e tecnologia da informação. Além disso, teremos palestras inspiradoras para auxiliar os alunos a explorarem suas paixões e se encontrarem em diversas áreas. Não perca essa chance de iniciar sua carreira com sucesso!
               </p>
 
               <h6 class="text-white mt-4">Vantagens do evento</h6>
 
-              <p class="text-white">Nosso evento tem como base fundamental a estruturação de pessoas e alunos
-                para o apoio psicopedagógico e extra-terrestre sobre as profissões.</p>
+              <p class="text-white">Acesso direto a diversas empresas do setor de TI, além de palestras inspiradoras que auxiliam os alunos a explorarem diferentes áreas e se prepararem para o mercado de trabalho</p>
 
-              <h6 class="text-white mt-4">Whole Night Party</h6>
+              <h6 class="text-white mt-4">Venha Fazer Parte</h6>
 
-              <p class="text-white">Please tell your friends about our website. Thank you.</p>
+              <p class="text-white">Não perca a chance de impulsionar sua carreira na área de TI! Participe da Feira de Empregabilidade na UniCesumar e conecte-se com oportunidades de emprego e conhecimento para construir um futuro promissor.</p>
             </div>
           </div>
 
@@ -107,8 +104,6 @@
             <div class="about-text-wrap">
               <img src="images/logo-roxo.png" class="about-image img-fluid">
 
-
-              
             </div>
           </div>
 
@@ -359,7 +354,7 @@
               </div>
 
               <div class="tab-pane fade" id="nav-ContactMap" role="tabpanel" aria-labelledby="nav-ContactMap-tab">
-                <iframe class="google-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29974.469402870927!2d120.94861466021855!3d14.106066818082482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd777b1ab54c8f%3A0x6ecc514451ce2be8!2sTagaytay%2C%20Cavite%2C%20Philippines!5e1!3m2!1sen!2smy!4v1670344209509!5m2!1sen!2smy" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17399.602722835334!2d-51.938714581525524!3d-23.4461517991622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81a413a9c9463%3A0x4e3ee356ad1bd6c3!2sUniCesumar%20-%20Maring%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1684459563530!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 <!-- You can easily copy the embed code from Google Maps -> Share -> Embed a map // -->
               </div>
             </div>
