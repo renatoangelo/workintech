@@ -45,12 +45,21 @@
               </h5>
             </div>
 
+
             <div class="location-wrap mx-auto py-3 py-lg-0">
               <h5 class="text-white">
                 <i class="custom-icon bi-geo-alt me-2"></i>
                 UniCesumar
               </h5>
             </div>
+
+            <div class="location-wrap mx-auto py-3 py-lg-0">
+              <h5 class="text-white">
+                <i class="custom-icon bi-clock me-2"></i>
+                19h-22h30
+              </h5>
+            </div>
+
           </div>
         </div>
       </div>
@@ -76,7 +85,7 @@
             <div class="services-info">
               <p class="text-white">Um evento único em que várias empresas renomadas apresentam oportunidades de emprego nas áreas de programação e TI. Além de palestras inspiradoras para auxiliar os alunos a explorarem suas paixões e se encontrarem. Não perca essa chance de iniciar sua carreira com sucesso!
               </p>
-              
+
               <h6 class="text-white mt-4">Vantagens do evento</h6>
 
               <p class="text-white">Acesso direto a diversas empresas do setor de TI, além de palestras inspiradoras que auxiliam os alunos a explorarem diferentes áreas e se prepararem para o mercado de trabalho</p>
@@ -102,95 +111,10 @@
         <div class="row justify-content-center">
 
           <div class="col-12 text-center">
-            <h2 class="mb-4">Conheça os nomes</h1>
+            <h2 class="mb-4">Participantes</h1>
           </div>
 
-          <div class="col-lg-5 col-12">
-            <div class="artists-thumb">
-              <div class="artists-image-wrap">
-                <img src="images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg" class="artists-image img-fluid">
-              </div>
-
-              <div class="artists-hover">
-                <p>
-                  <strong>Nome:</strong>
-                  Ana Elisa
-                </p>
-
-                <p class="mb-0">
-                  <strong>Função:</strong>
-                  <a href="#">Diretor Executivo</a>
-                </p>
-              </div>
-            </div>
-          </div>
-
-
-          <div class="col-lg-5 col-12">
-            <div class="artists-thumb">
-              <div class="artists-image-wrap">
-                <img src="images/palestrantes/ivo.jpeg" class="artists-image img-fluid">
-              </div>
-
-              <div class="artists-hover">
-                <p>
-                  <strong>Name:</strong>
-                  Clayton Passos
-                </p>
-
-                <p class="mb-0">
-                  <strong>Função:</strong>
-                  <a href="#">Senior Software Solutions Architect <br> Subject Matter Expert</a>
-                </p>
-              </div>
-            </div>
-          </div>
-
-
-
-
-          <div class="col-lg-5 col-12">
-            <div class="artists-thumb">
-              <div class="artists-image-wrap">
-                <img src="images/palestrantes/amanda.png" class="artists-image img-fluid">
-              </div>
-
-              <div class="artists-hover">
-                <p>
-                  <strong>Name:</strong>
-                  Amanda
-                </p>
-
-                <p class="mb-0">
-                  <strong>Função:</strong>
-                  <a href="#">Gestora de Marca</a>
-                </p>
-              </div>
-            </div>
-          </div>
-
-
-
-
-          <div class="col-lg-5 col-12">
-            <div class="artists-thumb">
-              <div class="artists-image-wrap">
-                <img src="images/artists/abstral-official-bdlMO9z5yco-unsplash.jpg" class="artists-image img-fluid">
-              </div>
-
-              <div class="artists-hover">
-                <p>
-                  <strong>Name:</strong>
-                  Rihana
-                </p>
-
-                <p class="mb-0">
-                  <strong>Função:</strong>
-                  <a href="#">Diretor Executivo</a>
-                </p>
-              </div>
-            </div>
-          </div>
+          <?php include("participantes.php"); ?>
 
         </div>
       </div>
