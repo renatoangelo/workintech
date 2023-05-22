@@ -136,109 +136,22 @@
     </section>
 
 
-    <section class="pricing-section section-padding section-bg" id="section_5">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-8 col-12 mx-auto">
-            <h2 class="text-center mb-4">Plans, you' love</h2>
-          </div>
-
-          <div class="col-lg-6 col-12">
-            <div class="pricing-thumb">
-              <div class="d-flex">
-                <div>
-                  <h3><small>Early Bird</small> $120</h3>
-
-                  <p>Including good things:</p>
-                </div>
-
-                <p class="pricing-tag ms-auto">Save up to <span>50%</span></h2>
-              </div>
-
-              <ul class="pricing-list mt-3">
-                <li class="pricing-list-item">platform for potential customers</li>
-
-                <li class="pricing-list-item">digital experience</li>
-
-                <li class="pricing-list-item">high-quality sound</li>
-
-                <li class="pricing-list-item">standard content</li>
-              </ul>
-
-              <a class="link-fx-1 color-contrast-higher mt-4" href="ticket.html">
-                <span>Buy Ticket</span>
-                <svg class="icon" viewBox="0 0 32 32" aria-hidden="true">
-                  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-                    <circle cx="16" cy="16" r="15.5"></circle>
-                    <line x1="10" y1="18" x2="16" y2="12"></line>
-                    <line x1="16" y1="12" x2="22" y2="18"></line>
-                  </g>
-                </svg>
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-6 col-12 mt-4 mt-lg-0">
-            <div class="pricing-thumb">
-              <div class="d-flex">
-                <div>
-                  <h3><small>Standard</small> $240</h3>
-
-                  <p>What makes a premium festava?</p>
-                </div>
-              </div>
-
-              <ul class="pricing-list mt-3">
-                <li class="pricing-list-item">platform for potential customers</li>
-
-                <li class="pricing-list-item">digital experience</li>
-
-                <li class="pricing-list-item">high-quality sound</li>
-
-                <li class="pricing-list-item">premium content</li>
-
-                <li class="pricing-list-item">live chat support</li>
-              </ul>
-
-              <a class="link-fx-1 color-contrast-higher mt-4" href="ticket.html">
-                <span>Buy Ticket</span>
-                <svg class="icon" viewBox="0 0 32 32" aria-hidden="true">
-                  <g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round">
-                    <circle cx="16" cy="16" r="15.5"></circle>
-                    <line x1="10" y1="18" x2="16" y2="12"></line>
-                    <line x1="16" y1="12" x2="22" y2="18"></line>
-                  </g>
-                </svg>
-              </a>
-            </div>
-          </div>
-
-        </div>
-      </div>
-    </section>
-
-
     <section class="contact-section section-padding" id="section_6">
       <div class="container">
         <div class="row">
 
           <div class="col-lg-8 col-12 mx-auto">
-            <h2 class="text-center mb-4">Interested? Let's talk</h2>
+            <h2 class="text-center mb-4">Ficou Interessado? Faça sua Inscrição</h2>
 
             <nav class="d-flex justify-content-center">
               <div class="nav nav-tabs align-items-baseline justify-content-center" id="nav-tab" role="tablist">
                 <button class="nav-link active" id="nav-ContactForm-tab" data-bs-toggle="tab" data-bs-target="#nav-ContactForm" type="button" role="tab" aria-controls="nav-ContactForm" aria-selected="false">
-                  <h5>Contact Form</h5>
-                </button>
-
-                <button class="nav-link" id="nav-ContactMap-tab" data-bs-toggle="tab" data-bs-target="#nav-ContactMap" type="button" role="tab" aria-controls="nav-ContactMap" aria-selected="false">
-                  <h5>Google Maps</h5>
+                  <h5>Inscrever-se</h5>
                 </button>
               </div>
             </nav>
 
-            <div class="tab-content shadow-lg mt-5" id="nav-tabContent">
+            <!--<div class="tab-content shadow-lg mt-5" id="nav-tabContent">
               <div class="tab-pane fade show active" id="nav-ContactForm" role="tabpanel" aria-labelledby="nav-ContactForm-tab">
                 <form class="custom-form contact-form mb-5 mb-lg-0" action="#" method="post" role="form">
                   <div class="contact-form-body">
@@ -265,9 +178,9 @@
 
               <div class="tab-pane fade" id="nav-ContactMap" role="tabpanel" aria-labelledby="nav-ContactMap-tab">
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17399.602722835334!2d-51.938714581525524!3d-23.4461517991622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e81a413a9c9463%3A0x4e3ee356ad1bd6c3!2sUniCesumar%20-%20Maring%C3%A1!5e0!3m2!1spt-BR!2sbr!4v1684459563530!5m2!1spt-BR!2sbr" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                <!-- You can easily copy the embed code from Google Maps -> Share -> Embed a map // -->
+                
               </div>
-            </div>
+            </div>-->
           </div>
 
         </div>
