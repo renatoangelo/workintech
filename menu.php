@@ -21,15 +21,11 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link click-scroll" href="#section_3">Mentores e Empresas</a>
+          <a class="nav-link click-scroll" href="#section_3">Participantes</a>
         </li>
 
         <li class="nav-item">
           <a class="nav-link click-scroll" href="#section_4">Cronograma</a>
-        </li>
-
-        <li class="nav-item">
-          <a class="nav-link click-scroll" href="#section_5">Pricing</a>
         </li>
 
         <li class="nav-item">
