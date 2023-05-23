@@ -142,9 +142,9 @@
 
           <div class="col-lg-8 col-12 mx-auto">
             <h2 class="text-center mb-4">Ficou Interessado? Faça sua Inscrição</h2>
-            
+
             <div class="d-flex justify-content-center">
-              <a href="inscricap.php" class="btn custom-btn mx-auto">Inscreva-se</a>
+              <a href="inscricap.php" class="btn custom-btn mx-auto renato">Inscreva-se</a>
             </div>
 
           </div>
