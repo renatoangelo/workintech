@@ -142,11 +142,10 @@
 
           <div class="col-lg-8 col-12 mx-auto">
             <h2 class="text-center mb-4">Ficou Interessado? Faça sua Inscrição</h2>
-
-            <a href="inscricap.php" class="btn custom-btn d-lg-none ms-auto me-4">Inscreva-se</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
+            
+            <div class="d-flex justify-content-center">
+              <a href="inscricap.php" class="btn custom-btn mx-auto">Inscreva-se</a>
+            </div>
 
           </div>
 
