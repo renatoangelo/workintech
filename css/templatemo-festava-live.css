@@ -635,6 +635,11 @@ strong {
 
 /* CSS DO LOMBA */
 
+.titulo_palestra {
+  background-color: var(--secondary-color);
+  color: #f0f8ff;
+}
+
 .bg-verde{
   background-color: rgba(60, 255, 73, 0.8);
   opacity: 1;
