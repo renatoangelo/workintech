@@ -143,15 +143,9 @@
           <div class="col-lg-8 col-12 mx-auto">
             <h2 class="text-center mb-4">Ficou Interessado? Faça sua Inscrição</h2>
 
-            <nav class="d-flex justify-content-center">
-              <div class="nav nav-tabs align-items-baseline justify-content-center" id="nav-tab" role="tablist">
-                
-              </div>
-            </nav>
+            <!--Aqui vai o novo codigo do botao inscreva-se-->
 
-            
-          </div>
-
+          
         </div>
       </div>
     </section>
