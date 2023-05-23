@@ -1,4 +1,4 @@
-<h5>Mentores e Empresas</h5>
+<h5 class="alert alert-primary d-flex justify-content-center botao-inscrevase">Mentores e Empresas</h5>
 
 <div class="row">
   <!--PALESTRANTE -->
@@ -77,7 +77,7 @@
   <!-- FIM PALESTRANTE -->
 </div>
 
-<h5>Palestras e Oficinas</h5>
+<h5  class="alert alert-primary d-flex justify-content-center botao-inscrevase">Palestras e Oficinas</h5>
 
 <div class="row">
   
