@@ -144,7 +144,10 @@
             <h2 class="text-center mb-4">Ficou Interessado? Faça sua Inscrição</h2>
 
             <!--Aqui vai o novo codigo do botao inscreva-se-->
-            INSCREVA-se
+            <div class="alert alert-primary d-flex justify-content-center botao-inscrevase">
+              <a href="inscricap.php" class="btn custom-btn">Inscreva-se</a>
+            </div>
+            
 
           
         </div>
