@@ -1,4 +1,6 @@
-<h5>Mentores e Empresas</h5>
+<div class="col-12 text-center">
+  <h5 class="mb-4">Mentores</h5>
+</div>
 
 <!--PALESTRANTE -->
 <div class="col-lg-3 col-12">
@@ -72,7 +74,7 @@
     <div class="artists-image-wrap">
       <img src="images/palestrantes/frank.jpg" class="artists-image img-fluid">
     </div>
-    
+
     <div class="artists-hover">
       <p>
         <strong>Nome:</strong>
@@ -88,7 +90,13 @@
 </div>
 <!-- FIM PALESTRANTE -->
 
-<h5>Palestras e Oficinas</h5>
+
+
+
+
+<div class="col-12 text-center">
+  <h5 class="mb-4">Palestras e Oficinas</h5>
+</div>
 
 <!--PALESTRANTE -->
 <div class="col-lg-3 col-12">
@@ -117,6 +125,27 @@
 </div>
 <!-- FIM PALESTRANTE -->
 
+<!--PALESTRANTE -->
+<div class="col-lg-3 col-12">
+  <div class="artists-thumb">
+    <div class="artists-image-wrap">
+      <img src="images/palestrantes/tiago.jpg" class="artists-image img-fluid">
+    </div>
+
+    <div class="artists-hover">
+      <p>
+        <strong>Nome:</strong>
+        Tiago Freire
+      </p>
+
+      <p class="mb-0">
+        <strong>Função:</strong>
+        <a href="#">Analista de Negócios</a>
+      </p>
+    </div>
+  </div>
+</div>
+<!-- FIM PALESTRANTE -->
 
 <!--PALESTRANTE -->
 <div class="col-lg-3 col-12">
