@@ -20,14 +20,14 @@
         <td scope="row">19h15</td>
         <td style="background-color: var(--secondary-color);"><h4 style="color: white">Matera</h4>[Empresa]</td>
         <td style="background-color: var(--secondary-color);"><h4 style="color: white">Lode</h4>[Empresa]</td>
-        <td style="background-color: var(--primary-color);"><h4>Mentoria Internacional[Douglas Bianchezzi]</h4></td>
+        <td style="background-color: var(--primary-color);"><h4>Mentoria Internacional</h4><span style="color: var(--secondary-color);">[Douglas Bianchezzi]</span></td>
       </tr>
       
       <tr>
         <td scope="row">20h30</td>
         <td style="background-color: var(--secondary-color);"><h4 style="color: white">Elotech</h4>[Empresa]</td>
         <td style="background-color: var(--secondary-color);"><h4 style="color: white">RH Accion</h4>[Empresa]</td>
-        <td style="background-color: var(--primary-color)"><h4>Mentoria Internacional</h4>[William Azevedo]</td>
+        <td style="background-color: var(--primary-color)"><h4>Mentoria Internacional</h4><span style="color: var(--secondary-color);">[William Azevedo]</span></td>
       </tr>
       
       <tr>
