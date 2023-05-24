@@ -19,18 +19,25 @@
       </tr>
       <tr>
         <th scope="row">19h15</th>
-        <td style="background-color: var(--secondary-color);"><h3>Matera</h3></td>
-        <td style="background-color: var(--secondary-color);"><h3>Lode</h3></td>
-        <td style="background-color: var(--primary-color);"><h3>Mentoria Internacional</h3></td>
+        <td style="background-color: var(--secondary-color);"><h4 style="color: white">Matera</h4></td>
+        <td style="background-color: var(--secondary-color);"><h4 style="color: white">Lode</h4></td>
+        <td style="background-color: var(--primary-color);"><h4>Mentoria Internacional</h4></td>
       </tr>
       
       <tr>
         <th scope="row">20h30</th>
-        <td style="background-color: var(--secondary-color);"><h3>Elotech</h3></td>
-        <td style="background-color: var(--secondary-color);"><h3>RH Accion</h3></td>
-        <td style="background-color: var(--primary-color)"><h3>Mentoria Internacional</h3></td>
+        <td style="background-color: var(--secondary-color);"><h4 style="color: white">Elotech</h4></td>
+        <td style="background-color: var(--secondary-color);"><h4 style="color: white">RH Accion</h4></td>
+        <td style="background-color: var(--primary-color)"><h4>Mentoria Internacional</h4></td>
       </tr>
       
+      <tr>
+        <th scope="row">20h30</th>
+        <td style="background-color: var(--secondary-color);"><h4 style="color: white">DB1</h4></td>
+        <td style="background-color: var(--secondary-color);"><h4 style="color: white">ItalenTI</h4></td>
+        <td style="background-color: var(--white-color);">-</td>
+      </tr>
+
     </tbody>
   </table>
 </div>Í
