@@ -29,7 +29,7 @@
       
       <tr>
         <td scope="row">21h45</td>
-        <td style="background-color: var(--secondary-color);"><h5 style="color: white">VivaWeb</h5>[Empresa / Mentoria]</td>
+        <td style="background-color: var(--secondary-color);"><h5 style="color: white">VivaWeb</h5>[Empresa]</td>
         <td style="background-color: var(--text-palestras-tabela);"><h5 style="color: white">Hacks de vida: saiba como seu diretor ou CEO pensa</h5>[Ana Carolina Ebenau]</td>
       </tr>
 
