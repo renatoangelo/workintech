@@ -10,8 +10,12 @@
     <meta name="msapplication-TileImage" content="https://devinsider.com.br/workintech/images/icon.png" />
     <meta property="og:image" content="https://devinsider.com.br/workintech/images/icon.pngg">
     <meta property="og:image:type" content="image/jpg">
+    <meta property="og:description" content="Feira de Empregabilidade que acontece para os alunos de Tecnologia dos Cursos Noturnos">
+    <meta property="og:url" content="https://devinsider.com.br/workintech/" >
+    <meta property="og:site_name" content="WorkInTech - Feira da Empregabilidade" >
+    <meta property="og:title" content="Aproveite a Feira de Empregabilidade WorkInTech" >
 
-    
+
     <link rel="manifest" href="images/favicon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
