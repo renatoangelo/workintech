@@ -155,5 +155,7 @@
   </main>
 
   <?php include("footer.php"); ?>
+
+  <!-- teste de msg dentro do pedrolomba -->
   <!-- Teste de mensagem antes do merge 1903-->
 
