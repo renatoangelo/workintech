@@ -34,7 +34,7 @@
 
             <h1 class="text-white mb-5"><img src="images/logo.png" /></h1>
 
-            <a class="btn custom-btn smoothscroll" href="#section_2">Inscrever-se</a>
+            <a class="btn custom-btn smoothscroll" href="inscricao.php" target="_blank">Inscrever-se</a>
           </div>
 
           <div class="col-lg-12 col-12 mt-auto d-flex flex-column flex-lg-row text-center">
