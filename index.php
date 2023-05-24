@@ -111,7 +111,7 @@
         <div class="row justify-content-center">
 
           <div class="col-12 text-center">
-            <h2 class="mb-4">Participantes</h1>
+            <h2 class="mb-4">Participantes</h2>
           </div>
 
           <?php include("participantes.php"); ?>
@@ -126,14 +126,30 @@
 
     <section class="schedule-section section-padding" id="section_4">
       <div class="container">
+
         <div class="row">
+          <div class="col-12 text-center">
+            <h2 class="text-white mb-4">Cronograma</h2>
+          </div>
+
 
           <div class="col-12 text-center">
-            <h2 class="text-white mb-4">Cronograma do Evento 10</h1>
-
-              <?php include("tabela.php"); ?>
-
+            <h3 class="text-white mb-4">Salas</h3>
+            <?php include("tabela-salas.php"); ?>
           </div>
+
+
+          <div class="col-12 text-center">
+            <h3 class="text-white mb-4">Inspira Space</h3>
+            <?php include("tabela-inspira.php"); ?>
+          </div>
+
+          <div class="col-12 text-center">
+            <h3 class="text-white mb-4">Mentorias</h3>
+            <?php include("tabelas-mentorias.php"); ?>
+          </div>
+
+
         </div>
       </div>
     </section>
@@ -145,19 +161,19 @@
 
           <div class="col-lg-8 col-12 mx-auto">
             <h2 class="text-center mb-4">Ficou Interessado? Faça sua Inscrição</h2>
-            
+
             <div class="alert alert-primary d-flex justify-content-center botao-inscrevase">
               <a href="inscricap.php" class="btn custom-btn mx-auto">Inscreva-se</a>
             </div>
-            
 
-          
+
+
+          </div>
         </div>
-      </div>
     </section>
   </main>
 
 
   <?php include("footer.php"); ?>
 
-<!-- fim  -->
+  <!-- fim  -->
