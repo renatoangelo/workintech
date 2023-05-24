@@ -13,6 +13,8 @@
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
     <meta name="msapplication-TileImage" content="https://devinsider.com.br/workintech/images/icon.png" />
+    <meta property="og:image" content="https://devinsider.com.br/workintech/images/icon.pngg">
+    <meta property="og:image:type" content="image/jpg">
 
     <title>WorkInTech - Feira de Empregabilidade</title>
 
