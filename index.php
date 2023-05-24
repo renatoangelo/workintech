@@ -120,11 +120,14 @@
       </div>
     </section>
 
-    <?php include("empresas.php"); ?>
+    <section class="about-section section-padding" id="section_4">
+      <div class="container">
+        <?php include("empresas.php"); ?>
+      </div>
+    </section>
 
 
-
-    <section class="schedule-section section-padding" id="section_4">
+    <section class="schedule-section section-padding" id="section_5">
       <div class="container">
 
         <div class="row">
@@ -163,7 +166,7 @@
             <h2 class="text-center mb-4">Ficou Interessado? Faça sua Inscrição</h2>
 
             <div class="alert alert-primary d-flex justify-content-center botao-inscrevase">
-              <a href="inscricap.php" class="btn custom-btn mx-auto">Inscreva-se</a>
+              <a href="inscricao.php" target="_blank" class="btn custom-btn mx-auto">Inscreva-se</a>
             </div>
 
 
@@ -175,5 +178,3 @@
 
 
   <?php include("footer.php"); ?>
-
-  <!-- fim  -->

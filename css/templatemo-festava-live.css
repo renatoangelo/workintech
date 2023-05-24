@@ -639,6 +639,21 @@ strong {
 
 /* CSS DO LOMBA */
 
+.empresas-logo {
+border-radius: 10px;
+overflow: hidden;
+/* background-color: #40ab46; */
+padding: 5px;
+
+}
+
+.empresas-logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: inherit;
+}
+
 .titulo_palestra {
   background-color: var(--secondary-color);
   color: #f0f8ff;

@@ -4,7 +4,7 @@
       <img src="images/logo.png" height="80px" />
     </a>
 
-    <a href="inscricap.php" class="btn custom-btn d-lg-none ms-auto me-4">Inscreva-se</a>
+    <a href="inscricao.php" target="_blank" class="btn custom-btn d-lg-none ms-auto me-4">Inscreva-se</a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -25,7 +25,11 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link click-scroll" href="#section_4">Cronograma</a>
+          <a class="nav-link click-scroll" href="#section_4">Empresas</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link click-scroll" href="#section_5">Cronograma</a>
         </li>
 
         <li class="nav-item">
@@ -33,7 +37,7 @@
         </li>
       </ul>
 
-      <a href="inscricao.php" class="btn custom-btn d-lg-block d-none">Inscreva-se</a>
+      <a href="inscricao.php" target="_blank" class="btn custom-btn d-lg-block d-none">Inscreva-se</a>
     </div>
 
   </div>
