@@ -10,7 +10,6 @@
     </thead>
 
     <tbody>
-      <!-- Geral -->
       <tr>
         <th></th>
         <th>Sala 20</th>
