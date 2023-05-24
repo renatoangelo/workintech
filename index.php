@@ -154,12 +154,7 @@
     </section>
   </main>
 
+
   <?php include("footer.php"); ?>
 
-<<<<<<< HEAD
-  <!-- teste de msg dentro do pedrolomba -->
-=======
-  
->>>>>>> origin
-  <!-- Teste de mensagem antes do merge 1903-->
-
+<!-- fim  -->
