@@ -7,14 +7,16 @@
 
     <meta name="description" content="Workintech é uma feira de empregabilidae que acontece para os alunos de Tecnologia dos cursos noturnos na faculdade">
     <meta name="author" content="Alunos de Tecnologia Noturno da Faculdae">
+    <meta name="msapplication-TileImage" content="https://devinsider.com.br/workintech/images/icon.png" />
+    <meta property="og:image" content="https://devinsider.com.br/workintech/images/icon.pngg">
+    <meta property="og:image:type" content="image/jpg">
+
     
     <link rel="manifest" href="images/favicon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
-    <meta name="msapplication-TileImage" content="https://devinsider.com.br/workintech/images/icon.png" />
-    <meta property="og:image" content="https://devinsider.com.br/workintech/images/icon.pngg">
-    <meta property="og:image:type" content="image/jpg">
+    
 
     <title>WorkInTech - Feira de Empregabilidade</title>
 
