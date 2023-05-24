@@ -9,9 +9,9 @@
     <meta name="author" content="Alunos de Tecnologia Noturno da Faculdae">
     
     <link rel="manifest" href="images/favicon.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="images/icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="images/icon.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="images/icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png">
 
     <title>WorkInTech - Feira de Empregabilidade</title>
 
