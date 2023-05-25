@@ -630,7 +630,6 @@ strong {
 
 .unicesumar {
   max-width: 480px;
-
   border-radius: 10px;
   overflow: hidden;
   padding: 5px;
@@ -641,6 +640,7 @@ strong {
   width: 100%;
   height: auto;
   border-radius: inherit;
+  max-width: 480px;
 }
 .empresas-logo {
   border-radius: 10px;
