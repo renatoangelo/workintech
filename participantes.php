@@ -113,7 +113,7 @@
       <img src="images/palestrantes/anacarolina.jpg" class="card-img-top">
       <div class="card-body card-body-participante">
         <h5 class="card-title">Ana Carolina Ebenau </h5>
-        <p class="text-azul">Project Manager</p>
+        <p class="text-azul">CEO da Orbital Aceleradora<br>Apaixonada por tecnologia e empreendedorismo</p>
       </div>
     </div>
   </div>
