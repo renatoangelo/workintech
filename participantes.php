@@ -8,6 +8,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Clayton Passos</h5>
         <p class="text-azul">Senior Software Solutions Architect - Subject Matter Expert</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/claytonpassos/" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
@@ -21,6 +22,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">William Azevedo</h5>
         <p class="text-azul">Senior Software Engineer</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/willian-azevedo/" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
@@ -34,6 +36,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Douglas Bianchezzi</h5>
         <p class="text-azul">Project Manager</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/douglasbzz/" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
@@ -47,6 +50,9 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Ivo Roberto Batistela</h5>
         <p class="text-azul">Senior Consultant Developer</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/byivo/" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
+        
+
       </div>
     </div>
   </div>
@@ -59,6 +65,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Francisco Thiago de Almeida</h5>
         <p class="text-azul">Arquiteto de Software</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/ftathiago/" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
@@ -71,6 +78,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Frank Aguilieri</h5>
         <p class="text-azul">Diretor de Projetos de TI e Segurança da Informação</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/frankaguilieri/" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
@@ -88,6 +96,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Amanda Tambara</h5>
         <p class="text-azul">Jornalista especialista em comunicação digital e e-branding em constante atualização.</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/amandatambara/" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
@@ -101,6 +110,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Vânia Sagrado</h5>
         <p class="text-azul">Psicóloga</p>
+        <p class="text-azul"><a class="link-primary" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
@@ -114,6 +124,8 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Ana Carolina Ebenau </h5>
         <p class="text-azul">CEO da Orbital Aceleradora<br>Apaixonada por tecnologia e empreendedorismo</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/ana-carolina-ebenau-a8924a116/" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
+
       </div>
     </div>
   </div>
@@ -127,6 +139,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Tiago Freire</h5>
         <p class="text-azul">Analista de negócios</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/tiago-freire-santos/" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
@@ -139,6 +152,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Renato Angelo</h5>
         <p class="text-azul">Chief Marketing Officer, Software Developer</p>
+        <p class="text-azul"><a class="link-primary" href="https://www.linkedin.com/in/renatoangelo2" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
