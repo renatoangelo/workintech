@@ -110,7 +110,7 @@
       <div class="card-body card-body-participante">
         <h5 class="card-title">Vânia Sagrado</h5>
         <p class="text-azul">Psicóloga</p>
-        <p class="text-azul"><a class="link-primary" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
+        <p class="text-azul"><a href="https://www.linkedin.com/in/vania-sagrado-05506763/" class="link-primary" target="_blank"><i class="bi bi-linkedin"></i>LinkedIn</a></p>
       </div>
     </div>
   </div>
