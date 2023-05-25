@@ -103,6 +103,15 @@
           </div>
 
         </div>
+
+        <div class="row alert alert-primary justify-content-center">
+          <div class="unicesumar">
+            <h2 class="text-white">Realização</h2>
+            <div  class="empresas-logo">
+              <img src="images/empresas/unicesumar.jpg">
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
