@@ -107,11 +107,14 @@
         <div style="margin-top: 50px;" class="row justify-content-center">
           <div class="unicesumar">
             <h2 class="text-white">Realização</h2>
-            <div  class="empresas-logo">
+            <div class="empresas-logo d-flex justify-content-center flex-wrap">
               <img src="images/empresas/unicesumar.jpg">
+              <img src="images/empresas/rocketgirls.jpg">
+              <img src="images/empresas/unidev.jpg">
             </div>
           </div>
         </div>
+        
       </div>
     </section>
 
@@ -166,6 +169,11 @@
       </div>
     </section>
 
+    <section class="about-section section-padding" id="section_4">
+      <div class="container">
+        <?php include("staff.php"); ?>
+      </div>
+    </section>
 
     <section class="contact-section section-padding" id="section_6">
       <div class="container">
