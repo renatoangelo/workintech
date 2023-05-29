@@ -117,7 +117,17 @@
       <!-- Repita o código acima para cada membro do staff -->
 
 
- 
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/palestrantes/joao.jpg" alt="João Pedro Y T Vieira">
+        </div>
+        <div class="staff-info">
+          <h3>João Pedro Y <br>T Vieira</h3>
+          <p>ESOFT-5</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
     </div>
 
   </div>
