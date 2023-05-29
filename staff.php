@@ -119,7 +119,7 @@
 
       <div class="staff-member">
         <div class="staff-photo">
-          <img src="images/palestrantes/joao.jpg" alt="João Pedro Y T Vieira">
+          <img src="images/staff/joao.jpg" alt="João Pedro Y T Vieira">
         </div>
         <div class="staff-info">
           <h3>João Pedro Y <br>T Vieira</h3>
@@ -131,7 +131,7 @@
 
       <div class="staff-member">
         <div class="staff-photo">
-          <img src="images/palestrantes/pedro.jpg" alt="Pedro Sena">
+          <img src="images/staff/pedro.jpg" alt="Pedro Sena">
         </div>
         <div class="staff-info">
           <h3>Pedro Sena</h3>
