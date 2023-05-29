@@ -169,11 +169,9 @@
       </div>
     </section>
 
-    <section class="about-section section-padding" id="section_4">
-      <div class="container">
+    
         <?php include("staff.php"); ?>
-      </div>
-    </section>
+
 
     <section class="contact-section section-padding" id="section_6">
       <div class="container">

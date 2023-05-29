@@ -1,29 +1,22 @@
-<div class="row">
-  <h2 class="text-white mb-4">Organização - Staff</h2>
-</div>
+<section class="about-section section-padding" id="section_4">
+  <div class="container">
+    <h2 class="text-white staff-titulo">STAFF / Organização</h2>
 
-<div class="row">
-  <div class="col-lg-3 col-12 mb-4 mb-lg-0 d-flex justify-content-center empresas-logo">
-    <img src="images/empresas/matera.jpg" alt="Matera">
-  </div>
-  <div class="col-lg-3 col-12 mb-4 mb-lg-0 d-flex justify-content-center empresas-logo">
-    <img src="images/empresas/lode.jpg" alt="Lode">
-  </div>
-  <div class="col-lg-3 col-12 mb-4 mb-lg-0 d-flex justify-content-center empresas-logo">
-    <img src="images/empresas/elotech.jpg" alt="Elotech">
-  </div>
-  <div class="col-lg-3 col-12 mb-4 mb-lg-0 d-flex justify-content-center empresas-logo">
-    <img src="images/empresas/accion.jpg" alt="RH Accion">
-  </div>
-  <div class="col-lg-3 col-12 mb-4 mb-lg-0 d-flex justify-content-center empresas-logo">
-    <img src="images/empresas/db1.jpg" alt="DB1">
-  </div>
-  <div class="col-lg-3 col-12 mb-4 mb-lg-0 d-flex justify-content-center empresas-logo">
-    <img src="images/empresas/italenti.jpg" alt="iTalenTI">
-  </div>
-  <div class="col-lg-3 col-12 mb-4 mb-lg-0 d-flex justify-content-center empresas-logo">
-    <img src="images/empresas/vivaweb.jpg" alt="VivaWeb">
-  </div>
+    <div class="staff-container flex-wrap">
+
+    <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/staff/ana.jpg" alt="Ana Elisa Tubino">
+        </div>
+        <div class="staff-info">
+          <h3>Ana Elisa Tubino</h3>
+          <p>ADS-5</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
 
 
-</div>
+    </div>
+
+  </div>
+</section>
