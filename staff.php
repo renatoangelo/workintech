@@ -70,6 +70,17 @@
       </div>
       <!-- Repita o código acima para cada membro do staff -->
 
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/staff/lozano.jpg" alt="Alexandre Lozano ">
+        </div>
+        <div class="staff-info">
+          <h3>Alexandre Lozano</h3>
+          <p>ESOFT-1</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
     </div>
 
   </div>
