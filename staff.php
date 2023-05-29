@@ -81,6 +81,18 @@
       </div>
       <!-- Repita o código acima para cada membro do staff -->
 
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/staff/ary.jpg" alt="Aryana Bandeira">
+        </div>
+        <div class="staff-info">
+          <h3>Aryana Bandeira</h3>
+          <p>ESOFT-7</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
+ 
     </div>
 
   </div>
