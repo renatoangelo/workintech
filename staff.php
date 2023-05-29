@@ -128,6 +128,18 @@
       </div>
       <!-- Repita o código acima para cada membro do staff -->
 
+
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/palestrantes/pedro.jpg" alt="Pedro Sena">
+        </div>
+        <div class="staff-info">
+          <h3>Pedro Sena</h3>
+          <p>ESOFT-3</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
     </div>
 
   </div>
