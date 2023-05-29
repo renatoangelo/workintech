@@ -59,6 +59,18 @@
       </div>
       <!-- Repita o código acima para cada membro do staff -->
 
+
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/palestrantes/renato.jpg" alt="Renato Angelo">
+        </div>
+        <div class="staff-info">
+          <h3>Renato Angelo</h3>
+          <p>ESOFT-3</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
       <div class="staff-member">
         <div class="staff-photo">
           <img src="images/staff/seifert.jpg" alt="Vinícius Seifert ">
@@ -91,6 +103,19 @@
         </div>
       </div>
       <!-- Repita o código acima para cada membro do staff -->
+
+
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/palestrantes/tiago.jpg" alt="Tiago Freire">
+        </div>
+        <div class="staff-info">
+          <h3>Tiago Freire</h3>
+          <p>ADS-5</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
 
  
     </div>
