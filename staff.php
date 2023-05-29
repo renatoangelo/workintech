@@ -4,7 +4,7 @@
 
     <div class="staff-container flex-wrap">
 
-    <div class="staff-member">
+      <div class="staff-member">
         <div class="staff-photo">
           <img src="images/staff/ana.jpg" alt="Ana Elisa Tubino">
         </div>
@@ -15,6 +15,60 @@
       </div>
       <!-- Repita o código acima para cada membro do staff -->
 
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/staff/debora.jpg" alt="Débora Reis">
+        </div>
+        <div class="staff-info">
+          <h3>Débora Reis</h3>
+          <p>ESOFT-1</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/staff/matheus.jpg" alt="Matheus de Albuquerque">
+        </div>
+        <div class="staff-info">
+          <h3>Matheus de<br> Albuquerque</h3>
+          <p>ADS-1</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/staff/polloni.jpg" alt="João Polloni ">
+        </div>
+        <div class="staff-info">
+          <h3>João Polloni</h3>
+          <p>ESOFT-5</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/staff/josemiguel.jpg" alt="José Miguel ">
+        </div>
+        <div class="staff-info">
+          <h3>José Miguel</h3>
+          <p>ESOFT-3</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/staff/seifert.jpg" alt="Vinícius Seifert ">
+        </div>
+        <div class="staff-info">
+          <h3>Vinícius Seifert</h3>
+          <p>ESOFT-3</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
 
     </div>
 
