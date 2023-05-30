@@ -140,6 +140,18 @@
       </div>
       <!-- Repita o código acima para cada membro do staff -->
 
+
+      <div class="staff-member">
+        <div class="staff-photo">
+          <img src="images/staff/antonio.jpg" alt="Antonio C Prestes">
+        </div>
+        <div class="staff-info">
+          <h3>Antonio C Prestes</h3>
+          <p>Cordenador dos<br> Cursos de TI</p>
+        </div>
+      </div>
+      <!-- Repita o código acima para cada membro do staff -->
+
     </div>
 
   </div>
