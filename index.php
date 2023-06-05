@@ -114,7 +114,18 @@
             </div>
           </div>
         </div>
-        
+
+        <div style="margin-top: 50px;" class="row justify-content-center">
+          <div class="unicesumar">
+            <h2 class="text-white" style="text-align: center;">Fotos do Evento - Clique para acessar</h2>
+
+            <div class="fotos-evento d-flex justify-content-center flex-wrap">
+              <a href="fotos/geral.php" target="_blank"><img src="images/fotos-gerais.jpg"></a>
+              <a href="fotos/linkedin.php" target="_blank"><img src="images/linkedin.jpg"></a>
+            </div>
+          </div>
+        </div>
+
       </div>
     </section>
 
@@ -169,8 +180,8 @@
       </div>
     </section>
 
-    
-        <?php include("staff.php"); ?>
+
+    <?php include("staff.php"); ?>
 
 
     <section class="contact-section section-padding" id="section_6">

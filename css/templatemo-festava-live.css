@@ -702,6 +702,12 @@ strong {
   border-radius: inherit;
 }
 
+.fotos-evento a img {
+  margin: 30px;
+  border-radius: 20px;
+  padding: 5px;
+}
+
 .titulo_palestra {
   background-color: var(--secondary-color);
   color: #f0f8ff;
